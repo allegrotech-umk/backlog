@@ -8,3 +8,11 @@ Warunki satysfakcji:
  - startup jest dostępny w internecie,
  - widoczny jest tekst informujący o dacie otwarcia,
  - widok zgodny z dostarczną makietą.
+
+**SNAKE-2** | 
+Jako internauta chcę wiedzieć, jaki asortyment będzie oferował sklep wildsnake, kiedy będzie dostępny.
+
+Warunki satysfakcji:
+ - widoczna jest lista oferowanych produktów w formie graficznej
+ - asortyment jest konfigurowalny osobno dla środowisk dev/prod
+ - asortyment można modyfikować bez wdrażania aplikacji
