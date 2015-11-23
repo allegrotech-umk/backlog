@@ -16,3 +16,8 @@ Warunki satysfakcji:
  - widoczna jest lista oferowanych produktów w formie graficznej
  - asortyment jest konfigurowalny osobno dla środowisk dev/prod
  - asortyment można modyfikować bez wdrażania aplikacji
+
+**SNAKE-3** | Jako internauta chciałbym, aby każdy produkt miał swoją cenę widoczną dla mnie.
+
+**SNAKE-4** | Jako internauta chciałbym, aby produkt miał zdjęcie.
+
