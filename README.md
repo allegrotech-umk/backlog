@@ -21,3 +21,4 @@ Warunki satysfakcji:
 
 **SNAKE-4** | Jako internauta chciałbym, aby produkt miał zdjęcie.
 
+**SNAKE-5** | Jako internauta chciałbym aby listing produktów był zgodny z makietą (images/listing.png).
