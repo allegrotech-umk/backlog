@@ -22,3 +22,8 @@ Warunki satysfakcji:
 **SNAKE-4** | Jako internauta chciałbym, aby produkt miał zdjęcie.
 
 **SNAKE-5** | Jako internauta chciałbym aby listing produktów był zgodny z makietą (images/listing.png).
+
+**SNAKE-6** | Jako developer chciałbym rozdzielić projekt wildsnake na dwa projekty 
+- github.com/allegrotech-umk/wildsnake-api (api zwracające produkty, tylko java, żadnych html'i oraz js'ów)
+- github.com/allegrotech-umk/wildsnake-front (warstwa prezentacji, czysty html + js)
+Taki podział pozwoli rozdzielić warstwę widoku od danych i tym samym uchroni mnie przed tworzeniem monolitu.
